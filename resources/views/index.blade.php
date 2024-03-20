@@ -46,10 +46,10 @@
         <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
       </div>
       <div class="social-links d-none d-md-block">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <a href="https://x.com/DetUadb?s=20" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/photo/?fbid=105636679136761&set=a.105636709136758" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href=" https://www.instagram.com/det.uad?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://youtu.be/AJ9LYQ4CVC4?si=y8iocvuCt4OGFrHs" class="linkedin"><i class="bi bi-youtube"></i></i></a>
       </div>
     </div>
   </section>
@@ -58,17 +58,17 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Green</a></h1>
+      <h1 class="logo me-auto"><a href="index.html">DETUADB</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
+          <li><a class="nav-link scrollto" href="#about">Islam</a></li>
+          <li><a class="nav-link scrollto" href="#services">Imane</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Dahira bi</a></li>
+          <li><a class="nav-link scrollto" href="#team">Qui Somme Nous ?</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -87,7 +87,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <!-- <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -104,35 +104,33 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide3mosquee.jpeg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Green</span></h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina Fillahi</span></h2>
+              <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir Plus</a>
             </div>
           </div>
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide1mosquee.jpeg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
-            </div>
+            <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina Fillahi</span></h2>
+            <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
+            <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir Plus</a></div>
           </div>
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
-            </div>
+            <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina Fillahi</span></h2>
+            <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
+            <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir Plus</a></div>
           </div>
         </div>
 
@@ -187,29 +185,28 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>A propos</h2>
+          <p>la Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/sokhna_dahira_bi.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Notre Dahira s'est solidement établie au sein de l'université, offrant un espace où les étudiants peuvent se réunir autour d'un idéal basé sur une solide formation islamique et une fidélité à la voie de la Tidjania.</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+            Chaque année, nous organisons diverses activités éducatives, spirituelles et sociales pour renforcer notre engagement envers notre foi, notre voie mystique, notre travail, notre regroupement d'adeptes (dahira), et notre attachement à Tivaouane comme lieu de ressourcement spirituel.
+
+            <!-- Nos activités phares sont réparties en activités hebdomadaires et annuelles : -->
             </p>
-            <ul>
+            <!-- <ul>
               <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
               <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
+            </ul> -->
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+            Nos activités phares sont réparties en activités hebdomadaires et annuelles :
             </p>
           </div>
         </div>
@@ -224,39 +221,39 @@
         <div class="row no-gutters">
 
           <div class="col-lg-4 col-md-6 content-item">
-            <span>01</span>
-            <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
-          </div>
+          <span>01</span>
+            <h4>Le Guddi Ajjuma (Nuit du vendredi):</h4>
+            <p>Organisé chaque jeudi soir à partir de 21h, alternativement au campus 1 ou au campus 2. Durant ces activités, des sujets de Fiqh sont abordés, tels que la manière de faire la prière, les petites et grandes ablutions, et le jeûne, entre autres.</p>
+         </div>
 
           <div class="col-lg-4 col-md-6 content-item">
             <span>02</span>
-            <h4>Repellat Nihil</h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
-          </div>
+            <h4> Les Khadaras </h4>
+            <p>Organisées chaque vendredi dans les deux campus.</p>
+         </div>
 
           <div class="col-lg-4 col-md-6 content-item">
             <span>03</span>
-            <h4> Ad ad velit qui</h4>
-            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+            <h4>Le Dahra</h4>
+            <p>Pour l'apprentissage du saint Coran et des livres de Fiqh :* Tel que Lakhdari, Asmawiyou, Ibn Hanchir, organisé chaque mercredi et samedi dans les deux campus. Les horaires varient selon les campus.</p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item">
             <span>04</span>
-            <h4>Repellendus molestiae</h4>
-            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
+            <h4>La journée d'intégration </h4>
+            <p>Organisée pour les nouveaux bacheliers.</p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item">
             <span>05</span>
-            <h4>Sapiente Magnam</h4>
-            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
+            <h4>Le Khadara populaire et Ziar annuelle à Tivaouane.</h4>
+            <p>Occasion pour les membres d'organiser deux des trois activités les plus important de la dahira</p>
           </div>
 
           <div class="col-lg-4 col-md-6 content-item">
             <span>06</span>
-            <h4>Facilis Impedit</h4>
-            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
+            <h4>Les journées Cheikh</h4>
+            <p>Organisées pour rendre hômmage a notre bien aimé guide Cheikh Tidiane Chérif (RTA) a travers les  enseignements de notre wassilla Seydi Elhadj Malick Sy (RTA)</p>
           </div>
 
         </div>
