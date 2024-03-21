@@ -3,7 +3,7 @@ name: Laravel Build and Push
 on:
   push:
     branches:
-      - main # ou la branche principale de votre choix
+      - build # ou la branche principale de votre choix
 
 jobs:
   build:
@@ -11,13 +11,13 @@ jobs:
     name: Build and Push
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-        php-version: '8.1' # Choisissez la version PHP que vous utilisez
+            php-version: '8.1' # Choisissez la version PHP que vous utilisez
 
       
       - name: Install Composer Dependencies
@@ -25,11 +25,10 @@ jobs:
 
       
       - name: Generate Assets (si nécessaire)
-        run: npm install && npm run production # ou toute commande pour générer les assets
+        run: npm install  # ou toute commande pour générer les assets
 
       
-      - name: Run Laravel Mix (si vous utilisez Laravel Mix pour la génération d'actifs)
-        run: npm run production
+      
 
       
       - name: Push Build
