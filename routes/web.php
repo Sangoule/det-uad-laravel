@@ -16,3 +16,19 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/dahira-bi', function () {
+    return view('dahirabi');
+});
+Route::get('/evenements', function () {
+    return view('evenement');
+});
+Route::get('/bibliotheques', function () {
+    return view('bibliotheque');
+});
+Route::get('/les-serignes', function () {
+    return view('seriñe-ći');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
