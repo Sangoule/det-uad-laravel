@@ -27,32 +27,16 @@ jobs:
       - name: Generate Assets (si nécessaire)
         run: npm install  # ou toute commande pour générer les assets
 
-      
-      
-      name: Notification Discord sur le statut des actions
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      # Vos étapes de déploiement ou autres actions vont ici
-
       - name: Envoyer une notification Discord
         uses: sarisia/actions-status-discord@v1.12.0
         if: always()
         with:
-          webhook: ${{secrets.DISCORD_WEBHOOK }}
-          status: ${{job.status }}
-          content: "Hey @everyone"
-          title: "Déploiement"
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          status: ${{ job.status }}
+          content: "Hi @everyone"
+          title: "Déploiement en prod"
           url: "https://github.com/Sangoule/det-uad-laravel.git"
           username: GitHub Actions
-
       
       - name: Push Build
         uses: s0/git-publish-subdir-action@develop
