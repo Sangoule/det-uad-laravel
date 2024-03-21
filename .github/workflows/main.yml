@@ -25,7 +25,7 @@ jobs:
 
       
       - name: Generate Assets (si nécessaire)
-        run: npm install && npm run production # ou toute commande pour générer les assets
+        run: npm install && npm run dev # ou toute commande pour générer les assets
 
       
       - name: Run Laravel Mix (si vous utilisez Laravel Mix pour la génération d'actifs)
