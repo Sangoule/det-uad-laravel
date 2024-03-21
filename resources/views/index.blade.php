@@ -198,7 +198,7 @@
             <p class="fst-italic">
             Chaque année, nous organisons diverses activités éducatives, spirituelles et sociales pour renforcer notre engagement envers notre foi, notre voie mystique, notre travail, notre regroupement d'adeptes (dahira), et notre attachement à Tivaouane comme lieu de ressourcement spirituel.
 
-            <!-- Nos activités phares sont réparties en activités hebdomadaires et annuelles : -->
+           
             </p>
             <!-- <ul>
               <li><i class="bi bi-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
