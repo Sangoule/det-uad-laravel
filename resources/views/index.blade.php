@@ -654,16 +654,16 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name">Votre Nom</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6 mt-3 mt-md-0">
-                  <label for="name">Your Email</label>
+                  <label for="name">Votre Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <label for="name">Subject</label>
+                <label for="name">Sujet</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
               <div class="form-group mt-3">
@@ -673,9 +673,9 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Votre message est envoyé avec succès!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Envoyé</button></div>
             </form>
           </div>
 
