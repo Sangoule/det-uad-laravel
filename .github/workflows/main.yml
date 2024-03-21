@@ -36,7 +36,7 @@ jobs:
           content: "Hi @everyone"
           title: "Déploiement en prod"
           url: "https://github.com/Sangoule/det-uad-laravel.git"
-          username: GitHub Actions
+          username: "Sangoule"
       
       - name: Push Build
         uses: s0/git-publish-subdir-action@develop
