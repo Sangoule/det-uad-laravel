@@ -3,7 +3,7 @@ name: Laravel Build and Push
 on:
   push:
     branches:
-      - build # ou la branche principale de votre choix
+      - main # ou la branche principale de votre choix
 
 jobs:
   build:
