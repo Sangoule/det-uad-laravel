@@ -3,6 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
+        "production": "laravel-mix --production",
         "build": "vite build"
     },
     "devDependencies": {
