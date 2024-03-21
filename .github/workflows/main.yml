@@ -38,7 +38,7 @@ jobs:
           url: "https://github.com/Sangoule/det-uad-laravel.git"
           username: "Sangoule"
       
-      - name: Push Build
+      - name: Envoie de Notification Après deploiement
         uses: s0/git-publish-subdir-action@develop
         env:
             REPO: self
