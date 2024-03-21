@@ -35,7 +35,7 @@ jobs:
           status: ${{ job.status }}
           content: "Hi @everyone"
           title: "Déploiement en prod"
-          url: "https://github.com/Sangoule/det-uad-laravel.git"
+          url: "https://github.com/Sangoule/det-uad-laravel"
           username: "Sangoule"
       
       - name: Envoie de Notification Après deploiement
