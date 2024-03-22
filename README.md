@@ -8,5 +8,5 @@ php artisan serve
 git checkout -b modifnavbar
 git add .
 git commit -m "Modification nangam sangam"
-git push
+git push --set-upstream origin modifnavbar
 pr modifnavbar vers main
