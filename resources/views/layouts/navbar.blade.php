@@ -41,8 +41,8 @@
  <section id="topbar" class="d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope-fill"></i><a href="mailto:contact@example.com">detuadb@example.com</a>
-        <i class="bi bi-phone-fill phone-icon"></i> +1 5589 55488 55
+        <i class="bi bi-envelope-fill"></i><a href="mailto:uadbdet@gmail.com">uadbdet@gmail.com</a>
+        <i class="bi bi-telephone-fill"></i> 77 888 88 55
       </div>
       <div class="social-links d-none d-md-block">
         <a href="https://x.com/DetUadb?s=20" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -113,7 +113,7 @@
                   <li><a href="#">2024</a></li>
                 </ul>
               </li>
-              
+
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="contact">Contact</a></li>
