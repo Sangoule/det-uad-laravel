@@ -26,14 +26,12 @@
             <div class="carousel-item active" style="background-image: url(assets/img/slide/slide3mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
-                                Fillahi</span></h2>
-                        <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
-                            Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al
-                            Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides
-                            d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir
-                            Plus</a>
+                        <h2 class="animate__animated animate__fadeInDown">kou am dara teh dara dja jaralula dara ,do am
+                            ća dara ja dara</h2>
+                        {{-- <p class="animate__animated animate__fadeInUp">Serigne Mansour Sy Borom daara ji ❤️</p>
+                        --}}
+                        <a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Serigne Mansour
+                            Sy Borom daara ji ❤️</a>
                     </div>
                 </div>
             </div>
@@ -42,20 +40,30 @@
             <div class="carousel-item" style="background-image: url(assets/img/slide/slide1mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
-                                Fillahi</span></h2>
-                        <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
+                        <h2 class="animate__animated animate__fadeInDown">"Mbirr mo neekati kaća nekul lum ko diaral
+                            bamu yaku nala diaral lu doy nonu pour mu baax"</span></h2>
+                        {{-- <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
                             Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al
                             Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides
-                            d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir
-                            Plus</a>
+                            d'approfondir leurs connaissances islamiques selon la voie tidjiane.
+                        </p> --}}
+                        <a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Serigne Abdou Aziz Sy Al Amin</a>
                     </div>
                 </div>
             </div>
 
             <!-- Slide 3 -->
             <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+                <div class="carousel-container">
+                    <div class="container">
+                        <h2 class="animate__animated animate__fadeInDown">"Kuy contar dahira yi danga jangul xilasu zahab baca buntup muzaynatu"</h2>
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Mbaye Donde Mbaye</a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Slide 4 -->
+             <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
@@ -69,6 +77,38 @@
                     </div>
                 </div>
             </div>
+
+             <!-- Slide 5 -->
+             {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+                <div class="carousel-container">
+                    <div class="container">
+                        <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
+                                Fillahi</span></h2>
+                        <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
+                            Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al
+                            Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides
+                            d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir
+                            Plus</a>
+                    </div>
+                </div>
+            </div> --}}
+
+             <!-- Slide 6 -->
+             {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+                <div class="carousel-container">
+                    <div class="container">
+                        <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
+                                Fillahi</span></h2>
+                        <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
+                            Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al
+                            Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides
+                            d'approfondir leurs connaissances islamiques selon la voie tidjiane.</p>
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Voir
+                            Plus</a>
+                    </div>
+                </div>
+            </div> --}}
 
         </div>
 
@@ -259,7 +299,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/31.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
@@ -312,7 +353,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/6.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
@@ -381,7 +423,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/26.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
@@ -421,7 +464,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/21.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
@@ -448,7 +492,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/28.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
@@ -487,7 +532,8 @@
                         <div class="portfolio-info">
                             <div class="portfolio-links">
                                 <a href="{{asset('assets/img/ji/33.png')}}" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i class="bx bx-plus"></i></a>
+                                    class="portfolio-lightbox" title=" JOURNÉE D'INTÉGRATION"><i
+                                        class="bx bx-plus"></i></a>
                                 <i class="bx bx-link"></i></a>
                             </div>
                         </div>
