@@ -15,6 +15,36 @@
               <img src="assets/img/PortraitSerigneyi/CAT.png" alt="" width="200" height="125">
               <h4>CH. Ahmed Tidjane Cherif</h4>
               <span>Abu al-ʿAbbâs Ahmad ibn Muhammad at-Tijânî dit Ahmed Tijani, né en 1737 ou 1738 (1150 de l'hégire) à Aïn Madhi (Algérie), et mort le 19 septembre 1815 (14 chawwal 1230) à Fès (Maroc), est un théologien asharite et juriste malikite, fondateur de la confrérie Tijaniyya.</span>
+              <button type="button" class="btn btn-success"  data-toggle="modal" data-target="#popup">Voir plus</button>
+              <!-- Modal -->
+              <div class="modal fade" id="popup" tabindex="-1" role="dialog" aria-labelledby="popupLabel" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                          <div class="modal-header">
+                              <h5 class="modal-title" id="popupLabel">Cheikh Ahmed Tidiane Chérif(RTA)</h5>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                  <span aria-hidden="true">&times;</span>
+                              </button>
+                          </div>
+                          <div class="modal-body">
+                              <!-- Contenu supplémentaire -->
+                              <h3>1. SA NAISSANCE</h3> 
+                              <h7>
+                              Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi, sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150 après l'hégire du Prophète (sas).
+                              Son père était un noble Charif et un grand savant très humble. Il enseignait le hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                              </h7>
+                              <h3>2. SES ETUDES</h3>
+                              <h6>
+                              Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de 21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque, ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                              </h6>
+                            </div>
+                          <div class="modal-footer">
+                              <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+               
             </div>
           </div>
 
@@ -22,7 +52,36 @@
             <div class="member">
               <img src="assets/img/PortraitSerigneyi/COFT.png" alt="" width="200" height="125">
               <h4>CH. Omar Foutiyou Tall</h4>
-              <span>El Hadj Omar, de son vrai nom Omar Saidou Tall, est né entre 1794 et 1797 à Alwar, près de Guédé dans le département de Podor. Son père se nommait Saidou, fils de Uthman, fils de Makhtar, fils d’ Ahmad Samba de la grande famille des Tall. Il était le quatrième fils de son père et le huitième de sa mère. Celle-ci avait pour nom Sokhna Adama.</span>
+              <span>El Hadj Omar, de son vrai nom Omar Saidou Tall, est né entre 1794 et 1797 à Alwar, près de Guédé dans le département de Podor. Son père se nommait Saidou, ......</span>
+              <button type="button" class="btn btn-success"  data-toggle="modal" data-target="#popup1">Voir plus</button>
+              <!-- Modal -->
+              <div class="modal fade" id="popup1" tabindex="-1" role="dialog" aria-labelledby="popupLabel" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                      <div class="modal-content">
+                          <div class="modal-header">
+                              <h5 class="modal-title" id="popupLabel">Cheikh Omar Foutiyou Tall(RTA)</h5>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                  <span aria-hidden="true">&times;</span>
+                              </button>
+                          </div>
+                          <div class="modal-body">
+                              <!-- Contenu supplémentaire -->
+                              <h6>
+                              fils de Uthman, fils de Makhtar, fils d’ Ahmad Samba de la grande famille des Tall. Il était le quatrième fils de son père et le huitième de sa mère. Celle-ci avait pour nom Sokhna Adama.
+</h6>
+                              <h6>
+                              
+                              El Hadji Malick Sy, qui est considéré comme le précurseur du Gamou, est un fils spirituel de Cheikhou Oumar Foutiyou Tall. Un legs que les différents khalifes qui se sont succédé aussi bien à Tivaouane qu’au sein de la famille omarienne ont su perpétuer. Retour sur un guide multidimensionnel et sur l’œuvre d’un des illustres petits-fils. Qui tiennent aussi leur Maouloud à Alwar (Dakar et Fouta), à Louga, au Mali et ailleurs.
+
+De son vrai nom Omar Saïdou Tall, El Hadj Omar est né entre 1794 et 1797 à Alwar, près de Guédé, dans le département de Podor. Son père se nommait Saïdou, fils de Uthman, fils de Makhtar, fils d’Ahmad Samba de la grande famille des Tall. Omar Saïdou Tall appartient à la précieuse lignée des Tooroodo et, à ce titre, s’initia très tôt à la culture coranique, d’autant plus que l’ethnie à laquelle il appartient avait adhéré depuis 1776 à la confrérie Qadriya. A 23 ans, il entreprend le pèlerinage à la Mecque, avec un voyage qui dura treize ans. Le Saint homme a saisi cette occasion pour se déplacer entre le Caire, la Mecque, Médine et Jérusalem. Il séjourne quelques années à Médine, ce qui lui permet d’approfondir ses connaissances du Coran, de la culture coranique et de l’arabe.
+</h6>
+                            </div>
+                          <div class="modal-footer">
+                              <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                          </div>
+                      </div>
+                  </div>
+              </div>
             </div>
           </div>
 
@@ -37,7 +96,7 @@
           <div class="col-lg-3 col-md-5 d-flex align-items-stretch">
             <div class="member">
               <img src="assets/img/PortraitSerigneyi/SSASM.png" alt="" width="200" height="125">
-              <h4>S Sydi Ahmed Sy Malick</h4>
+              <h4>S Seydi Ahmed Sy Malick</h4>
               <span>Fils ainé de El Hadj Malick Sy (RTA) et de Sokhna Rokhaya Ndiaye (RTA), Seydi Ahmed Sy (RTA) naquit en 1883 a Saint Louis du Sénégal. Il grandit sous l'ombre de son pere qu'il avait très tôt commence à accompagner dans nombre de ses deplacements a travers le pays.</span>
             </div>
           </div>
