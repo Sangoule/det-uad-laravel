@@ -35,6 +35,6 @@ Route::get('/contact', function () {
 });
 Route::resource('users', UserController::class);
 Auth::routes();
-Auth::routes();
+
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
