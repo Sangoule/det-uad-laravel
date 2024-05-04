@@ -102,11 +102,13 @@
               <br>
               <h4><a href="">Cheikh Omar Al Foutiyou Tall</a></h4>
               <p>Fils de Seydou Tall, Omar Tall est né à Halwar près de Podor en 1797.</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;" data-toggle="modal" data-target="#popup">Voir plus</button>
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
                 <!-- Modal pour afficher le contenu -->
-                <div class="modal fade" id="popup" tabindex="-1" role="dialog" aria-labelledby="popupLabel" aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
+                <!-- Large modal -->
+<!-- 
+                  <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                      <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="popupLabel">Contenu supplémentaire</h5>
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
@@ -114,7 +116,7 @@
                                 </button>
                             </div>
                             <div class="modal-body">
-                                <!-- Votre contenu personnalisé ici -->
+                                
                                 <p>Il fait très jeune de nombreux déplacements lointains pour s’initier à l’Islam</p>
                             </div>
                             <div class="modal-footer">
@@ -135,27 +137,12 @@
               <br>
               <h4><a href="">Seydi El Hadji Malick Sy </a></h4>
               <p>El-Hadji Malick Sy[1] (1855-1922) est un érudit et un marabout de la confrérie soufie tidjane.</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;" data-toggle="modal" data-target="#popup">Voir plus</button>
+             
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
                 <!-- Modal pour afficher le contenu -->
-                <div class="modal fade" id="popup" tabindex="-1" role="dialog" aria-labelledby="popupLabel" aria-hidden="true">
-                    <div class="modal-dialog" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h5 class="modal-title" id="popupLabel">Contenu supplémentaire</h5>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
-                                <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="modal-body">
-                                <!-- Votre contenu personnalisé ici -->
-                                <p>Il fait très jeune de nombreux déplacements lointains pour s’initier à l’Islam</p>
-                            </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <!-- Large modal -->
+
+                
             </div>
           </div>
 
@@ -167,7 +154,8 @@
               <br>
               <h4><a href="">Serigne Babacar Sy</a></h4>
               <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
-            </div>
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+              </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
@@ -179,6 +167,7 @@
               <br>
               <h4><a href="">Serigne Mansour Sy(Balkhawmi)</a></h4>
               <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
             </div>
           </div>
 
@@ -190,6 +179,7 @@
               <br>
               <h4><a href="">El Hadji Abdou Aziz Sy</a></h4>
               <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh</p>
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
             </div>
           </div>
 
@@ -201,6 +191,7 @@
               <br>
               <h4><a href="">Autre</a></h4>
               <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh</p>
+              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
             </div>
           </div>
 
