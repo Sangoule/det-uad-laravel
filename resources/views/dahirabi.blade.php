@@ -1,4 +1,3 @@
-<html>
 @include('layouts/navbar')
 <section id="about" class="about">
       <div class="container">
@@ -17,9 +16,9 @@
             <p class="fst-italic">
             Chaque année, nous organisons diverses activités éducatives, spirituelles et sociales pour renforcer notre engagement envers notre foi, notre voie mystique, notre travail, notre regroupement d'adeptes (dahira), et notre attachement à Tivaouane comme lieu de ressourcement spirituel.
 
-           
+
             </p>
-            
+
             <p>
             Nos activités phares sont réparties en activités hebdomadaires et annuelles :
             </p>

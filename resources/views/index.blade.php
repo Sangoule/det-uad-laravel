@@ -7,21 +7,6 @@
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
         <div class="carousel-inner" role="listbox">
-
-            <!-- Slide mosque tivaoune -->
-            {{-- <div class="video-wrapper">
-                <video playsinline autoplay muted loop poster="cake.jpg">
-                    <source src="my-css-video-background.webm" type="video/webm">
-                    Your browser does not support the video tag.
-                </video>
-
-                <!-- This will be positioned on top of our video background -->
-                <div class="header">
-                    <h1>Blueberry Cheesecake</h1>
-                    <button>Recipe here</button>
-                </div>
-            </div> --}}
-
             <!-- Slide 1 -->
             <div class="carousel-item active" style="background-image: url(assets/img/slide/slide3mosquee.jpeg)">
                 <div class="carousel-container">
