@@ -26,7 +26,7 @@ Route::get('/dahira-bi', function () {
 Route::get('/evenements', function () {
     return view('evenement');
 });
-Route::get('/bibliotheques', function () {
+Route::get('/daaradji', function () {
     return view('bibliotheque');
 });
 Route::get('/les-serignes', function () {

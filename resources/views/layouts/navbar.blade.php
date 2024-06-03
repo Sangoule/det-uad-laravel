@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-icon-60x60.png" rel="apple-touch-icon">
+    <link href="assets/img/favicon-96x96.png" rel="icon">
+    <link href="assets/img/favicon-96x96.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
@@ -69,7 +69,7 @@
                 <ul>
                     <li><a class="nav-link scrollto active" href="/">Accueil</a></li>
                     <li><a class="nav-link scrollto" href="evenements">Evénements</a></li>
-                    <li><a class="nav-link scrollto" href="bibliotheques">Daara Ji</a></li>
+                    <li><a class="nav-link scrollto" href="daaradji">Daara Ji</a></li>
                     <li><a class="nav-link scrollto " href="dahira-bi">Dahira Bi</a></li>
                     <li><a class="nav-link scrollto" href="les-serignes">Serigne Sy</a></li>
                     <li class="dropdown"><a href="#"><span>Les Générations</span> <i class="bi bi-chevron-down"></i></a>
@@ -132,7 +132,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="contact">Contact</a></li>
                     <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>

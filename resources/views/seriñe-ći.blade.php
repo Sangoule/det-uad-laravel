@@ -1,4 +1,5 @@
-@include('layouts/navbar')
+@extends('layouts.page')
+@section('content')
 <!-- ======= Team Section ======= -->
 <section id="team" class="team section-bg">
     <div class="container">
@@ -259,4 +260,4 @@
 
     </div>
 </section><!-- End Team Section -->
-@include('layouts/footer')
+@endsection
