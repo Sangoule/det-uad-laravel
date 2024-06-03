@@ -134,6 +134,52 @@
                         appartenant à l'école de jurisprudence malikite et à l'école de théologie asharite, ainsi qu'un
                         imam de la confrérie soufie tidjane, une voie spirituelle musulmane qu'il contribua largement à
                         diffuser au Sénégal et en Afrique noire.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup2">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup2" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Seydi El Hadji Malick(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -144,6 +190,52 @@
                     <span>Fils ainé de El Hadj Malick Sy (RTA) et de Sokhna Rokhaya Ndiaye (RTA), Seydi Ahmed Sy (RTA)
                         naquit en 1883 a Saint Louis du Sénégal. Il grandit sous l'ombre de son pere qu'il avait très
                         tôt commence à accompagner dans nombre de ses deplacements a travers le pays.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup3">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup3" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">S Seydi Ahmed Sy Malick(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -160,6 +252,52 @@
                         Dans sa jeunesse, il fit de longues études islamiques y apprenant notamment le Coran et son
                         exégèse, le droit islamique malikite, la langue arabe, la théologie asharite, le soufisme et les
                         relations humaines.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup4">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup4" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Ch. El Hadj Abdou Aziz Sy Dabakh(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -172,6 +310,52 @@
                         de Sokhna Rokhaya Ndiaye première femme de Maodo. Ayant succédé à son père en 1922, il a
                         toujours défendu, avec énergie et dévouement, trois choses : l’Islam,la Tarikha et les
                         Dahiras.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup5">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup5" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Babacar Sy(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -187,6 +371,52 @@
                         Il préfère le titre de « disciple » à celui de porte-parole. Aux guides religieux qui font
                         asseoir à terre leurs disciples, alors que des chaises sont disponibles, il signale la
                         non-conformité avec de pareil comportement avec la tradition Mohammadienne.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup6">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup6" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Abdou Aziz Sy Junior(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -197,6 +427,52 @@
                     <span>Serigne Mouhamadoul Mansour Sy Borom Daara Ji, né le 15 août 1925 à Tivaouane et mort le 9
                         décembre 2012 à Neuilly-sur-Seine à l'âge de 87 ans1, est un religieux musulman sénégalais,
                         ancien khalife général de la confrérie Tidjane du Sénégal.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup7">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup7" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Mansour Sy Borom Daradji(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -215,6 +491,52 @@
 
                         Serigne Cheikh Ahmed Tidiane est rappelé à Dieu le 15 mars 2017 et est remplacé à la tête de la
                         confrérie par son frère Serigne Abdoul Aziz Sy al-Amin.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup8">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup8" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Cheikh Ahmed Tidjane SY(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -228,6 +550,52 @@
                         fils Serigne Babacar Sy prit le flambeau jusqu’en 1957 avant de passer le témoin à Abdou Aziz Sy
                         dit « Dabakh », très tôt initié aux réalités du califat, justement, par le père de Serigne Mbaye
                         Sy Mansour.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup9">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup9" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Mbaye Sy Mansour(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -240,6 +608,52 @@
 
                         Né 1907 à Tivaouane, Serigne Habib était le fils cadet de la sainte Safiétou Niang, mère
                         notamment de Serigne Mansour Sy et de El Hadj Abdoul Aziz Sy Dabakh.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup10">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup10" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Habib Sy Malick(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -253,6 +667,52 @@
                         œuvres était centrée sur le respect scrupuleux des piliers de l’Islam, l’honneur du Sénégal et
                         celui de la prestigieuse lignée à laquelle il se rattachait, avait forcé l’admiration de toute
                         la communauté musulmane.</span>
+                    <button type="button" class="btn btn-success" data-toggle="modal" data-target="#popup11">Voir
+                        plus</button>
+                    <!-- Modal -->
+                    <div class="modal fade" id="popup11" tabindex="-1" role="dialog" aria-labelledby="popupLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="popupLabel">Serigne Mansour Sy balkhawmi(RTA)</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fermer">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <!-- Contenu supplémentaire -->
+                                    <h3>1. SA NAISSANCE</h3>
+                                    {{-- <h7>
+                                        Le Cheikh Ahmad at- Tijâni (Ra) est né dans un village béni, nommé Aïni Maadi,
+                                        sis dans l'actuelle Algérie, dans la nuit du 18 du mois de safar de l'an 1150
+                                        après l'hégire du Prophète (sas).
+                                        Son père était un noble Charif et un grand savant très humble. Il enseignait le
+                                        hadith et l'exégèse du Coran. Il s'appelait Muhammad, fils de Mukhtâr. Sa mère
+                                        était une noble de pure souche. Elle s'appelait Aïcha, fille de Muhammad, fils
+                                        de Sunussiyi Tijâni. On le classait dans la branche des Maddawiyi. Que Dieu
+                                        agrée ses deux parents et agrée l'ensemble des nobles pères et l'ensemble des
+                                        nobles mères de par la station de notre Cheikh Ahmad at-Tijâni (RA). Ämîn.
+                                    </h7>
+                                    <h3>2. SES ETUDES</h3>
+                                    <h6>
+                                        Le Cheikh Ahmad at-Tijâni (RA) a appris le Coran très jeune et l'a complètement
+                                        assimilé - et de quelle belle manière - sept ans. Ce qui préfigurait
+                                        l'impossibilité d'un oubli quelconque. Il commença ensuite à apprendre
+                                        l'ensemble des savoirs et obtient grâce à Dieu d'assimiler la grande majorité du
+                                        savoir. Il avait une compréhension extrêmement aigue de ces savoirs. A l'âge de
+                                        21 ans, il avait déjà fait le tour des savoirs livresques et tous les savants
+                                        lui reconnaissaient déjà le titre tant envié d'océan de savoir. A cette époque,
+                                        ses deux parents- à la vie utile et bénie- étaient vivants. Que Dieu soit
+                                        Satisfait d'eux et Satisfait de Cheikh Ahmad at-Tijâni (RA).
+                                    </h6> --}}
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-success" data-dismiss="modal">Fermer</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
