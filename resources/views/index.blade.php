@@ -1,5 +1,5 @@
-@include('layouts/navbar')
-
+@extends('layouts.page')
+@section('content')
 <!-- ======= Hero Section ======= -->
 <section id="hero">
     <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -7,21 +7,6 @@
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
         <div class="carousel-inner" role="listbox">
-
-            <!-- Slide mosque tivaoune -->
-            {{-- <div class="video-wrapper">
-                <video playsinline autoplay muted loop poster="cake.jpg">
-                    <source src="my-css-video-background.webm" type="video/webm">
-                    Your browser does not support the video tag.
-                </video>
-
-                <!-- This will be positioned on top of our video background -->
-                <div class="header">
-                    <h1>Blueberry Cheesecake</h1>
-                    <button>Recipe here</button>
-                </div>
-            </div> --}}
-
             <!-- Slide 1 -->
             <div class="carousel-item active" style="background-image: url(assets/img/slide/slide3mosquee.jpeg)">
                 <div class="carousel-container">
@@ -42,12 +27,14 @@
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">"Mbirr mo neekati kaća nekul lum ko diaral
                             bamu yaku nala diaral lu doy nonu pour mu baax"</span></h2>
-                        {{-- <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de l'Université
+                        {{-- <p class="animate__animated animate__fadeInUp">la Dahira des Étudiants Tidianes de
+                            l'Université
                             Alioune Diop de Bambey, a été créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al
                             Amine. Depuis sa fondation, elle incarne un lieu de rassemblement pour les étudiants avides
                             d'approfondir leurs connaissances islamiques selon la voie tidjiane.
                         </p> --}}
-                        <a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Serigne Abdou Aziz Sy Al Amin</a>
+                        <a href="#" class="btn-get-started animate__animated animate__fadeInUp scrollto">Serigne Abdou
+                            Aziz Sy Al Amin</a>
                     </div>
                 </div>
             </div>
@@ -56,14 +43,16 @@
             <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
-                        <h2 class="animate__animated animate__fadeInDown">"Kuy contar dahira yi danga jangul xilasu zahab baca buntup muzaynatu"</h2>
-                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Mbaye Donde Mbaye</a>
+                        <h2 class="animate__animated animate__fadeInDown">"Kuy contar dahira yi danga jangul xilasu
+                            zahab baca buntup muzaynatu"</h2>
+                        <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Mbaye
+                            Donde Mbaye</a>
                     </div>
                 </div>
             </div>
 
-             <!-- Slide 4 -->
-             <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+            <!-- Slide 4 -->
+            <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
@@ -78,8 +67,8 @@
                 </div>
             </div>
 
-             <!-- Slide 5 -->
-             {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+            <!-- Slide 5 -->
+            {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
@@ -94,8 +83,8 @@
                 </div>
             </div> --}}
 
-             <!-- Slide 6 -->
-             {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
+            <!-- Slide 6 -->
+            {{-- <div class="carousel-item" style="background-image: url(assets/img/slide/slide2mosquee.jpeg)">
                 <div class="carousel-container">
                     <div class="container">
                         <h2 class="animate__animated animate__fadeInDown">Notre Dahira <span>Almoutahabina
@@ -128,7 +117,7 @@
     <section id="team" class="team section-bg">
         <div class="container">
 
-            <div class="section-title">
+            {{-- <div class="section-title">
                 <p>
                     <font style="vertical-align: inherit;">
                         <font style="vertical-align: inherit;">Magnam dolores commodi est suspect. Necessitatibus eius
@@ -137,7 +126,7 @@
                             commodi quidem hic quas.</font>
                     </font>
                 </p>
-            </div>
+            </div> --}}
 
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
@@ -561,6 +550,8 @@
 
 </main>
 <!-- End #main -->
+@endsection
+
 
 <!-- ======= Footer ======= -->
-@include('layouts/footer')
+{{-- @include('layouts/footer') --}}

@@ -1,49 +1,59 @@
 @include('layouts/navbar')
 
-  <!-- ======= Services Section ======= -->
+<!-- ======= Services Section ======= -->
 <section id="services" class="services">
     <div class="container">
         <div class="section-title">
-          <h2>Fonctionnement</h2>
-          <h5>La religion musulmane est une religion de connaissance par excellence.<br>Dans un hadith Qudsi Allah(SWT) dit: <i>« Connaissez-Moi avant de M’adorer. Car, si vous ne Me connaissez pas, comment pourrez-vous M’adorer »</i>.Ce hadith qudsi met en évidence l’importance du concept de connaissance dans la religion musulmane. <br> Et ailleurs, dans le Saint Coran Allah(SWT) dit verset 56 de la sourate 51 : <i style="color: green;">"وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ"</i> <br> 
-          « Je n'ai créé les hommes et djinns que pour qu'ils M'adorent », selon Inb Abbâs, « cette adoration est  synonyme de  connaissance ».</h5>
+            <h2>Fonctionnement</h2>
+            <h5>La religion musulmane est une religion de connaissance par excellence.<br>Dans un hadith Qudsi
+                Allah(SWT) dit: <i>« Connaissez-Moi avant de M’adorer. Car, si vous ne Me connaissez pas, comment
+                    pourrez-vous M’adorer »</i>.Ce hadith qudsi met en évidence l’importance du concept de connaissance
+                dans la religion musulmane. <br> Et ailleurs, dans le Saint Coran Allah(SWT) dit verset 56 de la sourate
+                51 : <i style="color: green;">"وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ"</i> <br>
+                « Je n'ai créé les hommes et djinns que pour qu'ils M'adorent », selon Inb Abbâs, « cette adoration est
+                synonyme de connaissance ».</h5>
         </div>
         <div class="row">
 
-           <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="col-lg-4 col-md-4 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
+                data-aos-delay="300">
                 <div class="icon-box iconbox-pink">
-                <div class="icon">
-                    
-                    <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/coran.png" alt="">
-                    
+                    <div class="icon">
+
+                        <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/coran.png" alt="">
+
+                    </div>
+                    <h4><a href="" style="color: green;">Coran</a></h4>
+                    <p>Que vous soyez un débutant ou un hafiz 🤗 venez apprendre ou enseigner le coran.</p>
                 </div>
-                <h4><a href="" style="color: green;">Coran</a></h4>
-                <p>Que vous soyez un débutant ou un hafiz 🤗 venez apprendre ou enseigner le coran.</p>
+            </div>
+            <div class="col-lg-4 col-md-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="100">
+                <div class="icon-box iconbox-blue">
+                    <div class="icon">
+                        <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/islamique.png" alt="">
+                    </div>
+                    <h4><a href="" style="color: green;">Fiqh</a></h4>
+                    <p>On ne te demande pas nécessairement de devenir un savant, mais tu dois apprendre les bases de ta
+                        religion, ce qui te permet d'être sur la bonne voie. Le talibé tidiane est souvent considéré
+                        comme quelqu'un qui a le savoir.</p>
                 </div>
-           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
-                <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/islamique.png" alt="">
-              </div>
-              <h4><a href="" style="color: green;">Fiqh</a></h4>
-              <p>On ne te demande pas nécessairement de devenir un savant, mais tu dois apprendre les bases de ta religion, ce qui te permet d'être sur la bonne voie. Le talibé tidiane est souvent considéré comme quelqu'un qui a le savoir.</p>
             </div>
-          </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box iconbox-orange ">
-              <div class="icon">
-                <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/tarixabi.png" alt="">
-              </div>
-              <h4><a href="" style="color: green;">Tariha Bi</a></h4>
-              <p> Serigne Babacar Sy dans un célèbre vers, en parlant de Sîdî Ahmad Tijânî : «  Il a éduqué, ses disciples, sans khalwat (retraite spirituelle), jusqu’à ce qu’ils empruntent le droit chemin, Dieu l’a vraiment comblé de ses dons ».</p>
+            <div class="col-lg-4 col-md-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-orange ">
+                    <div class="icon">
+                        <img width="100" height="100" viewBox="0 0 600 600" src="assets/icons/tarixabi.png" alt="">
+                    </div>
+                    <h4><a href="" style="color: green;">Tariha Bi</a></h4>
+                    <p> Serigne Babacar Sy dans un célèbre vers, en parlant de Sîdî Ahmad Tijânî : « Il a éduqué, ses
+                        disciples, sans khalwat (retraite spirituelle), jusqu’à ce qu’ils empruntent le droit chemin,
+                        Dieu l’a vraiment comblé de ses dons ».</p>
+                </div>
             </div>
-          </div>
 
-         
 
-          <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+
+            <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-yellow">
               <div class="icon">
                 <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -85,27 +95,28 @@
         </div>
     </div>
 
-    <br/><br/><br/><br/>
+    <br /><br /><br /><br />
 
     <div class="container">
         <div class="section-title">
-          <h2>Xassidas</h2>
-          <h5>Voici une liste non exhaustive des xassidas (poèmes) faits par nos guides religieux en général sur le prophète, le cheikh ou parfois des prières.</h5>
+            <h2>Xassidas</h2>
+            <h5>Voici une liste non exhaustive des xassidas (poèmes) faits par nos guides religieux en général sur le
+                prophète, le cheikh ou parfois des prières.</h5>
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-blue">
-              <div class="icon">
-                  <img  width="150" height="150"  src="assets/img/seriñesi/1.png" alt="">
-              </div>
-              <br>
-              <h4><a href="">Cheikh Omar Al Foutiyou Tall</a></h4>
-              <p>Fils de Seydou Tall, Omar Tall est né à Halwar près de Podor en 1797.</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
-                <!-- Modal pour afficher le contenu -->
-                <!-- Large modal -->
-<!-- 
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="icon-box iconbox-blue">
+                    <div class="icon">
+                        <img width="150" height="150" src="assets/img/seriñesi/1.png" alt="">
+                    </div>
+                    <br>
+                    <h4><a href="">Cheikh Omar Al Foutiyou Tall</a></h4>
+                    <p>Fils de Seydou Tall, Omar Tall est né à Halwar près de Podor en 1797.</p>
+                    <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+                    <!-- Modal pour afficher le contenu -->
+                    <!-- Large modal -->
+                    <!--
                   <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-lg">
                       <div class="modal-content">
@@ -116,7 +127,7 @@
                                 </button>
                             </div>
                             <div class="modal-body">
-                                
+
                                 <p>Il fait très jeune de nombreux déplacements lointains pour s’initier à l’Islam</p>
                             </div>
                             <div class="modal-footer">
@@ -125,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-              
+
             </div>
           </div>
 
@@ -137,63 +148,66 @@
               <br>
               <h4><a href="">Seydi El Hadji Malick Sy </a></h4>
               <p>El-Hadji Malick Sy[1] (1855-1922) est un érudit et un marabout de la confrérie soufie tidjane.</p>
-             
+
               <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
                 <!-- Modal pour afficher le contenu -->
-                <!-- Large modal -->
+                    <!-- Large modal -->
 
-                
-            </div>
-          </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box iconbox-pink">
-              <div class="icon">
-                    <img  width="150" height="150"  src="assets/img/seriñesi/3.png" alt="">
-              </div>
-              <br>
-              <h4><a href="">Serigne Babacar Sy</a></h4>
-              <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
-              </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box iconbox-yellow">
-              <div class="icon">
-              
-                  <img  width="150" height="150"  src="assets/img/seriñesi/4.png" alt="">
-              </div>
-              <br>
-              <h4><a href="">Serigne Mansour Sy(Balkhawmi)</a></h4>
-              <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box iconbox-red">
-              <div class="icon">
-                  <img  width="150" height="150"  src="assets/img/seriñesi/5.png" alt="">
-              </div>
-              <br>
-              <h4><a href="">El Hadji Abdou Aziz Sy</a></h4>
-              <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box iconbox-teal">
-              <div class="icon">
-                    <img  width="150" height="150"  src="assets/img/seriñesi/6.png" alt="">
                 </div>
-              <br>
-              <h4><a href="">Autre</a></h4>
-              <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh</p>
-              <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
             </div>
-          </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
+                data-aos-delay="300">
+                <div class="icon-box iconbox-pink">
+                    <div class="icon">
+                        <img width="150" height="150" src="assets/img/seriñesi/3.png" alt="">
+                    </div>
+                    <br>
+                    <h4><a href="">Serigne Babacar Sy</a></h4>
+                    <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
+                    <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                <div class="icon-box iconbox-yellow">
+                    <div class="icon">
+
+                        <img width="150" height="150" src="assets/img/seriñesi/4.png" alt="">
+                    </div>
+                    <br>
+                    <h4><a href="">Serigne Mansour Sy(Balkhawmi)</a></h4>
+                    <p>L’homme au bonnet carré est né à Saint-Louis en 1885.</p>
+                    <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box iconbox-red">
+                    <div class="icon">
+                        <img width="150" height="150" src="assets/img/seriñesi/5.png" alt="">
+                    </div>
+                    <br>
+                    <h4><a href="">El Hadji Abdou Aziz Sy</a></h4>
+                    <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh
+                    </p>
+                    <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                <div class="icon-box iconbox-teal">
+                    <div class="icon">
+                        <img width="150" height="150" src="assets/img/seriñesi/6.png" alt="">
+                    </div>
+                    <br>
+                    <h4><a href="">Autre</a></h4>
+                    <p>El Hadj Abdou Aziz Sy (1904-14 septembre 1997), appelé aussi Cheikh El Hadj Abdou Aziz Sy Dabakh
+                    </p>
+                    <button type="button" class="btn" style="background-color:#09391f;color:white;">Diwaan</button>
+                </div>
+            </div>
 
         </div>
 
@@ -201,4 +215,3 @@
 </section><!-- End Services Section -->
 
 @include('layouts/footer')
-

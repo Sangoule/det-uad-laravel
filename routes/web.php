@@ -13,6 +13,9 @@ use App\Http\Controllers\UserController;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
+Route::get('test', function () {
+    return view('test');
+});
 
 Route::get('/', function () {
     return view('index');
@@ -23,7 +26,7 @@ Route::get('/dahira-bi', function () {
 Route::get('/evenements', function () {
     return view('evenement');
 });
-Route::get('/bibliotheques', function () {
+Route::get('/daaradji', function () {
     return view('bibliotheque');
 });
 Route::get('/les-serignes', function () {
@@ -34,7 +37,9 @@ Route::get('/contact', function () {
     return view('contact');
 });
 Route::resource('users', UserController::class);
-//Auth::routes();
+
+// Auth::routes();
+
 
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
