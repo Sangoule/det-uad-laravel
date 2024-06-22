@@ -229,14 +229,56 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-9 text-center text-lg-start">
-                    <h3>Call To Action</h3>
+                <div class="col-lg-6 text-center text-lg-start">
+                    {{-- <h3>Call To Action</h3>
                     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
                         pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p>
+                        mollit anim id est laborum.</p> --}}
+                    <img src="{{asset('assets/img/jc/photo_2024-03-31_15-21-55.jpg')  }}" alt="img-desc"
+                    style="width: 100%;
+                    /* border: 1px solid #ccc; */
+                    box-shadow: -16px 13px 0px 0px rgba(105, 9, 9, 0.1);
+                    border-radius: 24px;
+                    ">
+
                 </div>
-                <div class="col-lg-3 cta-btn-container text-center">
-                    <a class="cta-btn align-middle" href="#">Call To Action</a>
+                <div class="col-lg-6 cta-btn-container text-center">
+                    {{-- <a class="cta-btn align-middle" href="#">Call To Action</a> --}}
+                    <p>
+                        Notre Dahira, la 'Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey', a été
+                        créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle
+                        incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances
+                        islamiques selon la voie tidjiane.
+
+                        Notre Dahira s'est solidement établie au sein de l'université, offrant un espace où les
+                        étudiants peuvent se réunir autour d'un idéal basé sur une solide formation islamique et une
+                        fidélité à la voie de la Tidjania. Chaque année, nous organisons diverses activités éducatives,
+                        spirituelles et sociales pour renforcer notre engagement envers notre foi, notre voie mystique,
+                        notre travail, notre regroupement d'adeptes (dahira), et notre attachement à Tivaouane comme
+                        lieu de ressourcement spirituel.
+
+                        Nos activités phares sont réparties en activités hebdomadaires et annuelles :
+
+                        Activités Hebdomadaires:
+                        1. Le Guddi Ajjuma (Nuit du vendredi): Organisé chaque jeudi soir à partir de 21h,
+                        alternativement au campus 1 ou au campus 2. Durant ces activités, des sujets de Fiqh sont
+                        abordés, tels que la manière de faire la prière, les petites et grandes ablutions, et le jeûne,
+                        entre autres.
+                        2. Les Khadaras : Organisées chaque vendredi dans les deux campus.
+                        3. Le Dahra pour l'apprentissage du saint Coran et des livres de Fiqh : Tel que Lakhdari,
+                        Asmawiyou, Ibn Hanchir, organisé chaque mercredi et Samedi dans les deux campus. Les horaires
+                        varient selon les campus.
+
+                        Activités Annuelles:
+                        1. La journée d'intégration : Organisée pour les nouveaux bacheliers.
+                        2. Le Khadara populaire avec la ville de Bambey.
+                        3. Les journées Cheikh.
+                        4. Ziar annuelle à Tivaouane.
+
+                        À cela s'ajoutent le Gamou et le Ziar général pour rallier le siège spécial de la Dahira à
+                        Tivaouane. Nous sommes impatients de vous accueillir et de partager ces moments enrichissants
+                        avec vous.
+                    </p>
                 </div>
             </div>
 
