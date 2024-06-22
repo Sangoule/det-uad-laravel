@@ -263,7 +263,7 @@
                         1. Le Guddi Ajjuma (Nuit du vendredi): Organisé chaque jeudi soir à partir de 21h,
                         alternativement au campus 1 ou au campus 2. Durant ces activités, des sujets de Fiqh sont
                         abordés, tels que la manière de faire la prière, les petites et grandes ablutions, et le jeûne,
-                        entre autres.
+                        entre autres . 
                         2. Les Khadaras : Organisées chaque vendredi dans les deux campus.
                         3. Le Dahra pour l'apprentissage du saint Coran et des livres de Fiqh : Tel que Lakhdari,
                         Asmawiyou, Ibn Hanchir, organisé chaque mercredi et Samedi dans les deux campus. Les horaires
