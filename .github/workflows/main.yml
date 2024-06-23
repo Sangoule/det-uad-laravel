@@ -34,5 +34,5 @@ jobs:
             REPO: self
             BRANCH: build # Nom de la branche où vous souhaitez pousser les assets
             FOLDER: public # Dossier où vos assets sont générés (pour Laravel, il s'agit généralement du dossier "public")
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.MY_GITHUB_KEY }}
             MESSAGE: "Build: ({sha}) {msg}" # Message de commit pour le build
