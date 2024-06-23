@@ -31,7 +31,7 @@ jobs:
       - name: Envoie de Notification Après deploiement
         uses: s0/git-publish-subdir-action@develop
         env:
-            REPO: self
+            REPO: Sangoule/det-uad-laravel
             BRANCH: build # Nom de la branche où vous souhaitez pousser les assets
             FOLDER: public # Dossier où vos assets sont générés (pour Laravel, il s'agit généralement du dossier "public")
             GITHUB_TOKEN: ${{ secrets.MY_GITHUB_KEY }}
