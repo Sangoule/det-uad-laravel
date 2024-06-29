@@ -228,7 +228,7 @@
 
             <div class="row">
                 <div class="col-lg-6 text-center text-lg-start">
-                    <h3>Qui Somme Nous</h3>
+                    <h3>Qui Sommes Nous ?</h3>
                     <p> Notre Dahira, la 'Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey', a été
                         créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle
                         incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances
