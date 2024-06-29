@@ -4,7 +4,7 @@
 <section id="services" class="services">
     <div class="container">
         <div class="section-title">
-            <h2>Fonctionnement</h2>
+            <h2>Saaku Xam Xam</h2>
             <h5>La religion musulmane est une religion de connaissance par excellence.<br>Dans un hadith Qudsi
                 Allah(SWT) dit: <i>« Connaissez-Moi avant de M’adorer. Car, si vous ne Me connaissez pas, comment
                     pourrez-vous M’adorer »</i>.Ce hadith qudsi met en évidence l’importance du concept de connaissance
