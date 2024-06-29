@@ -131,22 +131,21 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member ">
-                        <img src="assets/img/team/team-1.jpg" alt="">
+                        <img src="assets/img/team/ibpresi.jpg" alt="">
                         <h4>
                             <font style="vertical-align: inherit;">
-                                <font style="vertical-align: inherit;">Walter White</font>
+                                <font style="vertical-align: inherit;">Papa Ibrahima Faye</font>
                             </font>
                         </h4>
                         <span>
                             <font style="vertical-align: inherit;">
-                                <font style="vertical-align: inherit;">Directeur général</font>
+                                <font style="vertical-align: inherit;">Président</font>
                             </font>
                         </span>
                         <p>
                             <font style="vertical-align: inherit;">
                                 <font style="vertical-align: inherit;">
-                                    Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis
-                                    quaerat qui aut aut aut
+                                    Étudiant en Ingénierie Juridique à l'Université Alioune Diop de Bambey niveau Master 2 option Cyber droit et Commerce électronique.
                                 </font>
                             </font>
                         </p>
@@ -161,22 +160,21 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
-                        <img src="assets/img/team/team-2.jpg" alt="">
+                        <img src="assets/img/team/abyvp.jpg" alt="">
                         <h4>
                             <font style="vertical-align: inherit;">
-                                <font style="vertical-align: inherit;">Sarah Jhinson</font>
+                                <font style="vertical-align: inherit;">Aby Rassoul SECK</font>
                             </font>
                         </h4>
                         <span>
                             <font style="vertical-align: inherit;">
-                                <font style="vertical-align: inherit;">Chef de produit</font>
+                                <font style="vertical-align: inherit;">Vice Présidente</font>
                             </font>
                         </span>
                         <p>
                             <font style="vertical-align: inherit;">
                                 <font style="vertical-align: inherit;">
-                                    Repellet fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto
-                                    rerum rerum temporibus
+                                    Étudiante en licence 3 en science de gestion option MCT (management des collectivités territoriales )
                                 </font>
                             </font>
                         </p>
@@ -189,7 +187,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                {{-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <img src="assets/img/team/team-3.jpg" alt="">
                         <h4>
@@ -217,7 +215,7 @@
                             <a href=""><i class="bi bi-linkedin"></i></a>
                         </div>
                     </div>
-                </div>
+                </div> --}}
 
             </div>
 
@@ -230,11 +228,16 @@
 
             <div class="row">
                 <div class="col-lg-6 text-center text-lg-start">
-                    {{-- <h3>Call To Action</h3>
-                    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                        mollit anim id est laborum.</p> --}}
-                    <img src="{{asset('assets/img/jc/photo_2024-03-31_15-21-55.jpg')  }}" alt="img-desc"
+                    <h3>Qui Somme Nous</h3>
+                    <p> Notre Dahira, la 'Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey', a été
+                        créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle
+                        incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances
+                        islamiques selon la voie tidjiane.
+
+                        Notre Dahira s'est solidement établie au sein de l'université, offrant un espace où les
+                        étudiants peuvent se réunir autour d'un idéal basé sur une solide formation islamique et une
+                        fidélité à la voie de la Tidjania. </p>
+                    <img src="{{asset('assets/img/detweb.png')  }}" alt="img-desc"
                     style="width: 100%;
                     /* border: 1px solid #ccc; */
                     box-shadow: -16px 13px 0px 0px rgba(105, 9, 9, 0.1);
@@ -242,17 +245,11 @@
                     ">
 
                 </div>
-                <div class="col-lg-6 cta-btn-container text-center">
+                <div class="col-lg-6 cta-btn-container text-center text-lg-start">
                     {{-- <a class="cta-btn align-middle" href="#">Call To Action</a> --}}
                     <p>
-                        Notre Dahira, la 'Dahira des Étudiants Tidianes de l'Université Alioune Diop de Bambey', a été
-                        créée en 2007 sous l'initiative de Serigne Abdou Aziz Sy Al Amine. Depuis sa fondation, elle
-                        incarne un lieu de rassemblement pour les étudiants avides d'approfondir leurs connaissances
-                        islamiques selon la voie tidjiane.
 
-                        Notre Dahira s'est solidement établie au sein de l'université, offrant un espace où les
-                        étudiants peuvent se réunir autour d'un idéal basé sur une solide formation islamique et une
-                        fidélité à la voie de la Tidjania. Chaque année, nous organisons diverses activités éducatives,
+                        Chaque année, nous organisons diverses activités éducatives,
                         spirituelles et sociales pour renforcer notre engagement envers notre foi, notre voie mystique,
                         notre travail, notre regroupement d'adeptes (dahira), et notre attachement à Tivaouane comme
                         lieu de ressourcement spirituel.

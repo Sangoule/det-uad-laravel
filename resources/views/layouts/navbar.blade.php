@@ -68,11 +68,11 @@
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto active" href="/">Accueil</a></li>
-                    <li><a class="nav-link scrollto" href="evenements">Evénements</a></li>
+                    {{-- <li><a class="nav-link scrollto" href="evenements">Evénements</a></li> --}}
                     <li><a class="nav-link scrollto" href="daaradji">Daara Ji</a></li>
                     <li><a class="nav-link scrollto " href="dahira-bi">Dahira Bi</a></li>
                     <li><a class="nav-link scrollto" href="les-serignes">Serigne Sy</a></li>
-                    <li class="dropdown"><a href="#"><span>Les Générations</span> <i class="bi bi-chevron-down"></i></a>
+                    {{-- <li class="dropdown"><a href="#"><span>Les Générations</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Drop Down 1</a></li>
                             <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
@@ -131,9 +131,9 @@
                                 </ul>
                             </li>
                         </ul>
-                    </li>
-                    <li><a class="nav-link scrollto" href="contact">Contact</a></li>
-                    <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+                    </li> --}}
+                    {{-- <li><a class="nav-link scrollto" href="contact">Contact</a></li>
+                    <li><a class="getstarted scrollto" href="#about">Get Started</a></li> --}}
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
